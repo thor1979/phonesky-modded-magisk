@@ -1,0 +1,10 @@
+id=phonesky-modded
+name=Google Play Store Modded
+version=v7.3.07.K
+versionCode=7307
+author=Chelpus
+description=With the modded Play Store, you can : Use protected apps with Google LVL (License Verification Library) without cracking them, verify license in offline mode, disable self update, and more.
+support=https://lucky-patcher.netbew.com/
+donate=https://lucky-patcher.netbew.com/
+cacheModule=false
+template=3
